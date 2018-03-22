@@ -1,0 +1,1154 @@
+[
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "gru", 
+      "region": "sam", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "gru", 
+      "region": "sam", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "gru", 
+      "region": "sam", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "gru", 
+      "region": "sam", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "gru", 
+      "region": "sam", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "gru", 
+      "region": "sam", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "eze", 
+      "region": "sam", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "eze", 
+      "region": "sam", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "eze", 
+      "region": "sam", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "eze", 
+      "region": "sam", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "eze", 
+      "region": "sam", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "eze", 
+      "region": "sam", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "syd", 
+      "region": "oc", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "syd", 
+      "region": "oc", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "syd", 
+      "region": "oc", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "syd", 
+      "region": "oc", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "syd", 
+      "region": "oc", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "syd", 
+      "region": "oc", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "mel", 
+      "region": "oc", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "mel", 
+      "region": "oc", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "mel", 
+      "region": "oc", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "mel", 
+      "region": "oc", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "mel", 
+      "region": "oc", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "mel", 
+      "region": "oc", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "lax", 
+      "region": "nam", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "lax", 
+      "region": "nam", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "lax", 
+      "region": "nam", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "lax", 
+      "region": "nam", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "lax", 
+      "region": "nam", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "lax", 
+      "region": "nam", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "ord", 
+      "region": "nam", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "ord", 
+      "region": "nam", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "ord", 
+      "region": "nam", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "ord", 
+      "region": "nam", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "ord", 
+      "region": "nam", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "ord", 
+      "region": "nam", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "sin", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "sin", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "sin", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "sin", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "sin", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "sin", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "hkg", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "hkg", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "hkg", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "hkg", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "hkg", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "hkg", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "nrt", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "nrt", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "nrt", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "nrt", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "nrt", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "nrt", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "tpe", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "tpe", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "tpe", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "tpe", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "tpe", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "tpe", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "maa", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "maa", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "maa", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "maa", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "maa", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "maa", 
+      "region": "apac", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "cai", 
+      "region": "afr", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "cai", 
+      "region": "afr", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "cai", 
+      "region": "afr", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "cai", 
+      "region": "afr", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "cai", 
+      "region": "afr", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "cai", 
+      "region": "afr", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "cpt", 
+      "region": "afr", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "cpt", 
+      "region": "afr", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "cpt", 
+      "region": "afr", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "cpt", 
+      "region": "afr", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "cpt", 
+      "region": "afr", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "cpt", 
+      "region": "afr", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "lhr", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "lhr", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "lhr", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "lhr", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "lhr", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "lhr", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "txl", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "txl", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "txl", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "txl", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "txl", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "txl", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "ams", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.storage.googleapis.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "gcp", 
+      "colo": "ams", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.storage.googleapis.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "ams", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "aws", 
+      "colo": "ams", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.s3-ap-southeast-1.amazonaws.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "ams", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/srandom.txt", 
+      "size_bytes": "1024"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }, 
+  {
+    "labels": {
+      "origin": "dgo", 
+      "colo": "ams", 
+      "region": "eur", 
+      "origin_url": "https://lebinh.sgp1.digitaloceanspaces.com/random.txt", 
+      "size_bytes": "102400"
+    }, 
+    "targets": [
+      "localhost:8000"
+    ]
+  }
+]
